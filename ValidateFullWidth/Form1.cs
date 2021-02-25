@@ -26,8 +26,8 @@ namespace ValidateFullWidth
             
             lblOutput3.Text                = string.Empty;
             lblContainsFullWidthChar3.Text = string.Empty;
-            lblOutput4.Text                = string.Empty;
 
+            lblOutput4.Text                = string.Empty;
             lblContainsFullWidthChar4.Text = string.Empty;
         }
 
